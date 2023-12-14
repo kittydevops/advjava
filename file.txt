@@ -3,5 +3,9 @@ hi this is oops concept
 feature1
 class and object
 encapsulation
+<<<<<<< HEAD
 AI
 
+=======
+polymorphism
+>>>>>>> bf3e4dfcdb812e66b8bbd95b2563901b4baf52dd
